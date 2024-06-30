@@ -1,0 +1,40 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const darkBlue = Color(0xFF1E1E2C);
+  static const lightBlue = Color(0xFF2D2D44);
+  static const Color textlight = Color(0xff514848);
+  static const Color textgreyscale = Color(0xff575758);
+  static const Color primary = Color(0xff81A064);
+  static const Color primarybg = Color(0xff072A0C);
+  static const Color secondaryButton = Color(0xffE5EEFD);
+  static const Color primaryLight = Color(0xff8CB976);
+  static const Color primaryLight100 = Color(0xffEEE8FF);
+  static const Color blueshade = Color(0xff0F77F0);
+  static const Color secondary = Color(0xff717171);
+  static const Color lightGrey = Color(0xffECECEC);
+  static const Color primaryDim = Color(0xffA6B79E);
+  static const Color disable = Color(0xffF1F0F0);
+  static const Color white = Color(0xffFFFFFF);
+  static const Color grey10 = Color(0xffD9D9D9);
+  static const Color intgrey = Color(0xffC6C6C6);
+  static const Color darkgrey = Color(0xff808080);
+  static const Color gr = Color(0xff888888);
+  static const Color black = Color(0xff000000);
+  static const Color black20 = Color(0xff141613);
+  static const Color black100 = Color(0xff2B2B2B);
+  static const Color accent = Color(0xffB9A0FE);
+  static const Color arre = Color(0xffAAAAAA);
+  static const Color ayone = Color(0xffCCC0C0);
+  static const Color greybg = Color(0xffF9F9F9);
+  static const Color grey = Color(0xffEAECF0);
+  static const Color grey300 = Color(0xffD0D5DD);
+  static const Color grey400 = Color(0xff98A2B3);
+  static const Color grey500 = Color(0xff667085);
+  static const Color grey700 = Color(0xff344054);
+  static const Color grey900 = Color(0xff101828);
+  static const Color success500 = Color(0xff12B76A);
+  static const Color error = Color(0xffFF0000);
+  static const Color grey50 = Color(0xffF9FAFB);
+  static const Color primary25 = Color(0xffFAF9FF);
+}
